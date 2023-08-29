@@ -1,0 +1,9 @@
+package basic;
+//(argument/parameter)->paranthases
+
+public class Second {
+	public static void main(String[] args) {
+		System.out.println("hi how are you ? 123534@#$$%$%");
+		System.out.println("hello again");
+	}
+}
