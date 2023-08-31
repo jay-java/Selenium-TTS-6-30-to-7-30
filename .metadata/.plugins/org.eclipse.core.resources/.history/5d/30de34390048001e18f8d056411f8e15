@@ -1,0 +1,10 @@
+package basic;
+//TypeCasting -> change data from one datatype to another.
+//Two types ->1.Implicit 
+//			->2.Explicit
+public class P002_TypeCasting {
+	public static void main(String[] args) {
+		System.out.println("this is type casting code");
+		int i=1;
+	}
+}

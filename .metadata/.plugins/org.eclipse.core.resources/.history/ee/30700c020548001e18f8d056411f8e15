@@ -1,0 +1,17 @@
+package basic;
+class ABC{
+	int i=1;
+	public void run() {
+		System.out.println("run function inside abc class");
+	}
+}
+public class P004_UserInput {
+	public static void main(String[] args) {
+		ABC jay = new ABC();
+		jay.run();
+		System.out.println("in user input classs");
+		int i=40,j=20,k;
+		k = i+j;
+		System.out.println(k);
+	}
+}

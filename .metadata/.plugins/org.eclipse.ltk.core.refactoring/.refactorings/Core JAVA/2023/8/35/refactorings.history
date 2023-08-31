@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;basic.P004_ConditionalStatement&apos; to &apos;P005_ConditionalStatement&apos;&#x0D;&#x0A;- Original project: &apos;Core JAVA&apos;&#x0D;&#x0A;- Original element: &apos;basic.P004_ConditionalStatement&apos;&#x0D;&#x0A;- Renamed element: &apos;basic.P005_ConditionalStatement&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;P004_ConditionalStatement&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;basic{P004_ConditionalStatement.java[P004_ConditionalStatement" matchStrategy="1" name="P005_ConditionalStatement" qualified="false" references="true" similarDeclarations="false" stamp="1693489031942" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,13 @@
+package basic;
+class ABC{
+	int i=1;
+	public void run() {
+		System.out.println("run function inside abc class");
+	}
+}
+public class P004_UserInput {
+	public static void main(String[] args) {
+		System.out.println("in user input classs");
+		ABC obj = new ABC();
+	}
+}

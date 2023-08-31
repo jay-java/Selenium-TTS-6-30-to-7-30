@@ -1,0 +1,15 @@
+package basic;
+
+//Operators
+//1.Assignment -> =,+=,-=,*=,/=
+//2.Unary -> ++,--
+//3.Arithmetic -> +,-,*,/,%
+//4.Relational -> <,>,<=,>=,==,!=
+//5.Logical -> &&,||
+public class P003_Operators {
+	public static void main(String[] args) {
+		int a = 10, b = 3;
+		System.out.println(a);
+		a+=b;
+	}
+}
