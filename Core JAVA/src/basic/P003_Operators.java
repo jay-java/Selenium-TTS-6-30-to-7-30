@@ -12,7 +12,7 @@ public class P003_Operators {
 		int a = 10, b = 3;
 		System.out.println(a);
 		// a+=b; //a = a+b
-		a += 20; // a = a-20
+		a -= 20; // a = a-20
 		System.out.println(a);
 
 		// 2.Unary
