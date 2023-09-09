@@ -1,0 +1,8 @@
+package basic;
+//array -> array is group of elements with same data type.
+//types -> 1.single dimensional 2.multi
+public class P008_Array {
+	public static void main(String[] args) {
+		
+	}
+}

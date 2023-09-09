@@ -24,5 +24,16 @@ public class P006_Loops {
 			k--;
 		}
 		while(k>=1);
+		
+		
+		String name[] = {"hemal","rushika","nishit","bhoomika"};
+		for(String s:name) {
+			System.out.println(s);
+		}
+		
+		for(int index=0;index<name.length;index++) {
+			System.out.println(name[index]);
+		}
+		
 	}
 }
