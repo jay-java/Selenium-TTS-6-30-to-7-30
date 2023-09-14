@@ -1,0 +1,11 @@
+package basic;
+class Student{
+	int id;
+	String name;
+	static String cname="TOPS";
+}
+public class P011_Static {
+	public static void main(String[] args) {
+		
+	}
+}

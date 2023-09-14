@@ -1,0 +1,7 @@
+package basic;
+//String is sequence of characters
+public class P009_String {
+	public static void main(String[] args) {
+		
+	}
+}

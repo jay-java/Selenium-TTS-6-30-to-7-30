@@ -1,0 +1,16 @@
+package basic;
+//(argument/parameter)->paranthases
+//stream
+//1.in -> InputStream
+//2.out -> PrintStream
+//3.err -> Error msg
+public class P000_Second_Class {
+	public static void main(String[] args) {
+		int i = 1;
+		i = 10;
+		i = 24l
+		System.out.println(i);
+		System.out.println("hi how are you ? 123534@#$$%$%");
+		System.out.print("hello\tagain");
+	}
+}

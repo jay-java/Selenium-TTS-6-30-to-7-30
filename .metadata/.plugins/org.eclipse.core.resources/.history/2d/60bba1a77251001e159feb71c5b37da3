@@ -1,0 +1,11 @@
+package basic;
+class A{
+	private void run() {
+		
+	}
+}
+public class P010Constructor {
+	public static void main(String[] args) {
+		
+	}
+}

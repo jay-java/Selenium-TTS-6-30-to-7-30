@@ -1,0 +1,15 @@
+package basic;
+//String is sequence of characters.
+public class P009_String {
+	public static void main(String[] args) {
+		char c[] = {'J','A','V','A'};
+		System.out.println(c);
+		String name= "java tech is used for selenium";
+		System.out.println(name);
+		System.out.println(name.length());
+		String s1 = "java";
+		String s2 = "tech";
+		System.out.println(s1.concat(s2));
+		
+	}
+}

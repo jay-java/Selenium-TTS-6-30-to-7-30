@@ -1,0 +1,13 @@
+package basic;
+class A{
+	public int run() {
+		System.out.println("run function");
+		return 12;
+	}
+}
+public class P010Constructor {
+	public static void main(String[] args) {
+		A a = new A();
+		int i = a.run();
+	}
+}
