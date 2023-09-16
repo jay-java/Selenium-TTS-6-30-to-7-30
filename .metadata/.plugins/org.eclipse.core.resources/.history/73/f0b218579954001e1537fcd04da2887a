@@ -1,0 +1,17 @@
+package basic;
+class Calculate{
+	public int add(int a,int b) {
+		return a+b;
+	}
+	public int add(int a , int b ,int c) {
+		return a+b+c;
+	}
+	public void add(int a,int b,int c,int d) {
+		System.out.println();
+	}
+}
+public class P015_Overloading {
+	public static void main(String[] args) {
+		
+	}
+}

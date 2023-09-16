@@ -1,0 +1,16 @@
+package basic;
+class Parent{
+	public void parentMethod() {
+		System.out.println("parent method");
+	}
+}
+class Child{
+	public void childMethod() {
+		System.out.println("child method");
+	}
+}
+public class P013_Inheritance {
+	public static void main(String[] args) {
+		
+	}
+}

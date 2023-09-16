@@ -1,0 +1,9 @@
+package basic;
+class P{
+	
+}
+public class P014_Hierarchical {
+	public static void main(String[] args) {
+		
+	}
+}

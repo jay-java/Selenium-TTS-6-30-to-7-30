@@ -1,0 +1,18 @@
+package basic;
+class P{
+	
+}
+class C1 extends P{
+	
+}
+class C2 extends P{
+	
+}
+class C3 extends P{
+	
+}
+public class P014_Hierarchical {
+	public static void main(String[] args) {
+		
+	}
+}
