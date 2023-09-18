@@ -1,0 +1,21 @@
+package basic;
+class RBI{
+	abstract public void interest();//method declaration
+	abstract public void HL();
+}
+class SBI {
+
+}
+
+class PNB {
+
+}
+class JAVA{
+	
+}
+
+public class P018Abstraction {
+	public static void main(String[] args) {
+
+	}
+}

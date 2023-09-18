@@ -1,0 +1,15 @@
+package basic;
+
+class SBI {
+
+}
+
+class PNB {
+
+}
+
+public class P018Abstraction {
+	public static void main(String[] args) {
+
+	}
+}

@@ -1,0 +1,18 @@
+package basic;
+interface inter1{
+	public void interface();
+}
+interface inter2{
+	
+}
+interface inter3{
+	
+}
+class InterfaceCall {
+	
+}
+public class P020_Interface {
+	public static void main(String[] args) {
+		
+	}
+}

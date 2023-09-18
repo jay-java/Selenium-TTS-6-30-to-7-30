@@ -1,0 +1,19 @@
+package basic;
+class Employee{
+	int eid;
+	String name;
+	String address;
+	public Employee(int eid,String name,String address) {
+		this.eid=eid;
+		this.name=name;
+		this.address=address;
+	}
+}
+public class P019_Encapsulation {
+	public static void main(String[] args) {
+		Employee e1 = new Employee(1, "hemal", "ahmedabad");
+		e1.eid = 12;
+		e1.name = "hemal";
+		e1.address="ahmedabad";
+	}
+}

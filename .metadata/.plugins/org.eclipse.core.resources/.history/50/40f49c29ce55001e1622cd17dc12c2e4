@@ -1,0 +1,21 @@
+package basic;
+
+class First {
+	int i = 1;
+	public void change() {
+		i++;
+		System.out.println(i);
+	}
+}
+
+class Second {
+	public void change() {
+		System.out.println("change method in ssecond class");
+	}
+}
+
+public class P017_FinalKeyword {
+	public static void main(String[] args) {
+
+	}
+}

@@ -1,0 +1,15 @@
+package basic;
+class First{
+	itn i =1;
+	public void change() {
+		
+	}
+}
+class Second{
+	
+}
+public class P017_FinalKeyword {
+	public static void main(String[] args) {
+		
+	}
+}

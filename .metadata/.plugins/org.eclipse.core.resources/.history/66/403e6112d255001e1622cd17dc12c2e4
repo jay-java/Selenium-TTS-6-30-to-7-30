@@ -1,0 +1,14 @@
+package basic;
+class Employee{
+	int eid;
+	String name;
+	String address;
+	public EMployee() {
+		
+	}
+}
+public class P019_Encapsulation {
+	public static void main(String[] args) {
+		
+	}
+}

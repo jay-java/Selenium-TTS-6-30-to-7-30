@@ -8,4 +8,9 @@
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="basic.A"/>
     <fullyQualifiedTypeName name="basic.Student"/>
+    <fullyQualifiedTypeName name="basic.Child"/>
+    <fullyQualifiedTypeName name="basic.Parent"/>
+    <fullyQualifiedTypeName name="basic.GrandChild"/>
+    <fullyQualifiedTypeName name="basic.Calculate"/>
+    <fullyQualifiedTypeName name="basic.Square"/>
 </qualifiedTypeNameHistroy>
