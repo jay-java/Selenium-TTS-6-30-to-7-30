@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="java.lang.IncompatibleClassChangeError"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="basic.ABC"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="basic.A"/>
@@ -13,4 +12,16 @@
     <fullyQualifiedTypeName name="basic.GrandChild"/>
     <fullyQualifiedTypeName name="basic.Calculate"/>
     <fullyQualifiedTypeName name="basic.Square"/>
+    <fullyQualifiedTypeName name="basic.First"/>
+    <fullyQualifiedTypeName name="basic.SBI"/>
+    <fullyQualifiedTypeName name="basic.PNB"/>
+    <fullyQualifiedTypeName name="basic.JAVA"/>
+    <fullyQualifiedTypeName name="basic.Employee"/>
+    <fullyQualifiedTypeName name="basic.InterfaceCall"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="basic.Divide"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
