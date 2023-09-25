@@ -1,9 +1,0 @@
-package basic;
-class Data{
-	
-}
-public class P011_Static {
-	public static void main(String[] args) {
-		
-	}
-}
