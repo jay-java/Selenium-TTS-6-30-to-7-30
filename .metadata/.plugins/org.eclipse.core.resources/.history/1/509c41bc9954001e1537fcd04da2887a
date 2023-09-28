@@ -1,9 +1,0 @@
-package basic;
-class Cirle{
-	public void 
-}
-public class P016_Overriding {
-	public static void main(String[] args) {
-		
-	}
-}
