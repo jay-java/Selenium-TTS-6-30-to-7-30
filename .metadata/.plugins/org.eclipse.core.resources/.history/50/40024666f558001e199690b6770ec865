@@ -1,7 +1,0 @@
-package basic;
-
-public class P025Map {
-	public static void main(String[] args) {
-		
-	}
-}
