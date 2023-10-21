@@ -23,15 +23,45 @@ public class P009_Calender {
 		System.out.println("clicked");
 		String myDate = "14";
 		String myMonth = "May";
-		String myYear = "2001";
+		String myYear = "2027";
 		WebElement current_Year = driver.findElement(By.xpath("//span[@class='ui-datepicker-year']"));
 		String currentY = current_Year.getText();
-		
-		
-		while(!currentY.equals(myYear)) {
-			WebElement prev = driver.findElement(By.xpath("//div[@id='ui-datepicker-div']/div/a[1]/span"));
-			prev.click();
+		System.out.println(currentY);
+		int y1 = Integer.parseInt(myYear);
+		int y2 = Integer.parseInt(currentY);
+		while(!myYear.equals(driver.findElement(By.xpath("//span[@class='ui-datepicker-year']")).getText())) {
+			if(y1>y2) {
+				WebElement next = driver.findElement(By.xpath("//div[@id='ui-datepicker-div']/div/a[2]/span"));
+				next.click();
+			}
+			else {
+				WebElement prev = driver.findElement(By.xpath("//div[@id='ui-datepicker-div']/div/a[1]/span"));
+				prev.click();
+			}
+			
 		}
+		while(!myMonth.equals(driver.findElement(By.xpath("//*[@id=\"ui-datepicker-div\"]/div/div/span[1]")).getText())) {
+			if(y1>y2) {
+				WebElement next = driver.findElement(By.xpath("//div[@id='ui-datepicker-div']/div/a[2]/span"));
+				next.click();
+			}
+			else {
+				WebElement prev = driver.findElement(By.xpath("//div[@id='ui-datepicker-div']/div/a[1]/span"));
+				prev.click();
+			}
+		}
+		
+		List<WebElement> dates = driver.findElements(By.xpath("//*[@id=\"ui-datepicker-div\"]/table/tbody/tr/td/a"));
+		for(WebElement date:dates) {
+			String d = date.getText();
+			if(d.equals(myDate)) {
+				date.click();
+			}
+		}
+		
+		
+		
+		
 		
 		
 		/*
