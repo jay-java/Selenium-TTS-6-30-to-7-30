@@ -3,11 +3,11 @@ package eshop;
 import org.testng.annotations.Test;
 
 public class Payment {
-	@Test
+	@Test(groups = "smoke")
 	public void COD() {
 		System.out.println("COD");
 	}
-	@Test
+	@Test(groups = "purchase")
 	public void creaditCard() {
 		System.out.println("creadit card");
 	}

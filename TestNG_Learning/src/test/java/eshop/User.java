@@ -3,12 +3,12 @@ package eshop;
 import org.testng.annotations.Test;
 
 public class User {
-	@Test
+	@Test(groups = "smoke")
 	public void createAccount() {
 		System.out.println("create account");
 	}
 	
-	@Test
+	@Test(groups = {"purchase","smoke"})
 	public void login() {
 		System.out.println("login");
 	}
