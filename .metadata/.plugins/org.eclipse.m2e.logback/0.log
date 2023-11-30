@@ -3337,3 +3337,39 @@
 2023-11-28 19:23:54,512 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\test\resources
 2023-11-28 19:24:14,971 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\main\resources
 2023-11-28 19:24:14,973 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\test\resources
+2023-11-28 19:24:31,365 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\main\resources
+2023-11-28 19:24:31,367 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\test\resources
+2023-11-28 19:27:30,446 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\main\resources
+2023-11-28 19:27:30,447 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\test\resources
+2023-11-28 19:27:32,591 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@45eae56b{STOPPING}[10.0.15,sto=0]
+2023-11-28 19:27:32,595 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@1450a824{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-11-28 19:27:32,603 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@54e20645{/help,null,STOPPED}
+2023-11-30 19:20:17,271 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-30 19:20:19,764 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: selenium:Selenium_Learning:0.0.1-SNAPSHOT @ C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\Selenium_Learning\pom.xml.
+2023-11-30 19:20:20,105 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: testng:TestNG_Learning:0.0.1-SNAPSHOT @ C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\pom.xml.
+2023-11-30 19:20:20,191 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: basic:JUnit_learn:0.0.1-SNAPSHOT @ C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\JUnit_learn\pom.xml.
+2023-11-30 19:20:39,166 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\main\resources
+2023-11-30 19:20:39,171 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\test\resources
+2023-11-30 19:20:46,820 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.15; built: 2023-04-11T17:25:14.480Z; git: 68017dbd00236bb7e187330d7585a059610f661d; jvm 18.0.2.1+1-1
+2023-11-30 19:20:46,841 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2023-11-30 19:20:46,867 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7852f072{/help,null,AVAILABLE}
+2023-11-30 19:20:46,874 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@37e20586{HTTP/1.1, (http/1.1)}{127.0.0.1:40143}
+2023-11-30 19:20:46,883 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@355edb4d{STARTING}[10.0.15,sto=0] @41907ms
+2023-11-30 19:20:54,427 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\main\resources
+2023-11-30 19:20:54,430 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\test\resources
+2023-11-30 19:20:56,677 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\main\resources
+2023-11-30 19:20:56,679 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\test\resources
+2023-11-30 19:21:14,341 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\main\resources
+2023-11-30 19:21:14,343 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\test\resources
+2023-11-30 19:21:18,394 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\main\resources
+2023-11-30 19:21:18,396 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\test\resources
+2023-11-30 19:21:22,631 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\main\resources
+2023-11-30 19:21:22,633 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\test\resources
+2023-11-30 19:21:28,988 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\main\resources
+2023-11-30 19:21:28,991 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\test\resources
+2023-11-30 19:21:30,441 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\main\resources
+2023-11-30 19:21:30,444 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\test\resources
+2023-11-30 19:21:51,990 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\main\resources
+2023-11-30 19:21:51,993 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\test\resources
+2023-11-30 19:22:02,953 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\main\resources
+2023-11-30 19:22:02,955 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jay-pc\Selenium TTS 6-30 to 7-30\TestNG_Learning\src\test\resources
